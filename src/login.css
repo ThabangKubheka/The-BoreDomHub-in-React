@@ -1,0 +1,13 @@
+.login{
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 20px;
+    border-color: gray;
+    text-align: center;
+    border: 12px;
+}
+.loginform{
+    text-align: center;
+}

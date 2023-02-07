@@ -1,0 +1,29 @@
+.head{
+    text-align: center;
+}
+.container{
+    text-align: center;
+    border-color: black;
+    
+}
+.screen{
+    width: 180px;
+    height: 30px;
+    border-color: black;
+    border-radius: 20px;
+}
+.butn{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: medium;
+}
+.ebutn{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: medium;
+    background-color: green;
+}
