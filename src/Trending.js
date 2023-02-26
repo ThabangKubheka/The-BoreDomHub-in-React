@@ -4,7 +4,7 @@ import './Trending.css'
 function Ad() {
     return (
 
-        <marquee>
+        <marquee className="ma">
             <h1>Trending Books #Worldwide</h1>
         </marquee>
     );

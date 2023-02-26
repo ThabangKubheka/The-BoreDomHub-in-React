@@ -22,6 +22,9 @@
     display: table;
     clear: both;
   }
+  .displayBooks{
+    display: flex;
+  }
   
   /* Style the counter cards */
   .card {
@@ -31,6 +34,13 @@
     background-color: #f1f1f1;
     height: 355px;
     width: 290px;
+  }
+  .card img{
+    height: 265px;
+    width: 191px;
+  }
+  .column{
+    margin-bottom: 30px;
   }
   
   /* Responsive columns - one column layout (vertical) on small screens */
