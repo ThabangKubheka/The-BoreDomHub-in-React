@@ -29,8 +29,11 @@ function Read(props) {
         />
         {isOpen && <Popup
             content={<>
-                
-                <p>{props.name}</p>
+               <h1>{props.book.name}</h1>
+
+                    <p>
+                        {props.book.description}
+                    </p>
             </>}
             handleClose={togglePopup}
         />}
