@@ -1,14 +1,11 @@
 import './App.css';
-import NavShow from './Nav';
 import ShowHeader from './Header';
 import BookShow from './BookShow.js';
 import Ad from './Trending';
 import Magic from './Magic'
 import Game from './Games';
 import Play from './tictactoe.js';
-import Calc from './CrazyCalc';
 import Handler from './handler';
-import Login from './login';
 
 
 function App() {
